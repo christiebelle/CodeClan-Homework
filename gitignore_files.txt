@@ -1,0 +1,12 @@
+Git Ignore is a method of telling Git not to transfer files to Github.
+
+There are several ways that you can tell Git to ignore files, gitignore is not the only one.
+With gitignore you can set the rules and parameters for the things you want Git to disregard and not
+transfer to GitHub.
+
+It is important to note that a gitignore file will not apply to any files that are already committed
+to GitHub. The rules will only apply to untracked files, so it is important to establish a gitignore
+from the beginning if you think you will need one.
+
+There are many sources on GitHub and StackOverflow that show common gitignore patterns and configurations
+so that you can get a good idea of how it works.
